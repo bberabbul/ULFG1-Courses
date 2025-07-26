@@ -462,7 +462,6 @@ a {
         width: 100%;
         box-sizing: border-box;
         grid-template-columns: 1fr;
-        margin-left: 6px;
         justify-content: center;
     }
 
